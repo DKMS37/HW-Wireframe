@@ -14,10 +14,14 @@ body {
 
 
 header {
+    padding: 20px;
+    margin: 20px;
     background: #ebebeb
 }
 
 nav {
+    padding: 20px;
+    margin: 20px;
     background: #ebebeb
 }
 
@@ -35,5 +39,7 @@ article {
 }
 
 footer {
+    padding: 20px;
+    margin: 20px;
     background: #ebebeb
 }
