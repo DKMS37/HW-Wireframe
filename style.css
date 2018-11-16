@@ -25,72 +25,64 @@ nav {
     margin: 25px;
     background: #ebebeb
 }
+
+#left {
+    float: left;
+    padding: 25px;
+    margin: 25px;
+    margin-top: -.5px;
+    width: 550px;
+    height: 350px;
+    background: #ebebeb;
+    
+   }
+
+#right {
+    float: left;
+    padding: 25px;
+    margin: auto;
+    margin-right: -10px;
+    width: 335px;
+    height: 350px;
+    background: #ebebeb;   
+}
+
+section {
+    clear: both;
+    padding: 25px;
+    margin: 25px;
+    background: #ebebeb;
+
+}
+
 article {
-    padding: 25px, 55px;
-    margin: 5px, 20px, 15px, 0px;
+    padding-top: 5px;
     width: 100%;
+    height: 250px;
     color: #ebebeb;
     background-color:#777;
 }
+
 #h1 { 
     background-color: #ebebeb;
-    width: 99%;
     color: #777;
-    width: 90%;
+    width: 470px;
+    margin-left: 15px
 }
 
 #p { 
-    padding: 25px;
-    margin: 25px;
-    color:#777;
-    width: 90%
-}
-#container{ 
-    width: 100%;
-    margin: auto;
-
-
-}
-section {
-
-    padding: 25px;
-    margin: 25px;
-    margin-right: 5px;
-    width: 100%;
-    background: #ebebeb;
-    
-   
- 
-    
-}
-#left {
-    
-    padding: 25px;
-    margin: 25px;
-    width: 45%;
-    height: 350px;
-    background: #ebebeb;
-    
-   
-    
-}
-
-
-#right {
-    
-    padding: 25px;
-    margin: 25px;
-    width: 45%;
-    height: 350px;
-    background: #ebebeb;
-    
-   
+    background-color: #ebebeb;
+    color: #777;
+    width: 470px;
+    height: 73px;
+    padding: 5px;
+    margin-left: 15px
 }
 
 footer {
-    
+    clear: both;
     padding: 25px;
     margin: 25px;
     background: #ebebeb; 
-    
+       
 }
